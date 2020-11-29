@@ -1,0 +1,2 @@
+# Hackintosh
+[HELP] ASRock Z390M-PRO4, i5-9400F, MSI RX570
