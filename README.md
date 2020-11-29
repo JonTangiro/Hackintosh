@@ -50,6 +50,8 @@ Kernel Assertions: 0x104=USB,MAGICWAKE
 Idle sleep preventers: IODisplayWrangler
 ```
 
+IO USB周りが問題っぽい気もするのですが、どのように対処すればいいのかも分からなく困っています。  
+
 アドバイスお願いいたします。  
 
 ## 構成
@@ -75,6 +77,16 @@ macOS Catalina 10.15.7
 ### EFIについて
 
 導入はSarkさんが[提供していくれているもの](https://github.com/sarkrui/Z390M-Pro4-i7-9700K-Hackintosh)を参考にして行いました。ESPの中身はEFI/Clover/以下のファイルを上のリンクからコピーして、基本的にそのまま使っています。  
+Githubに上げてあるので見ていただけたら嬉しいです。[（Github）]()
+
+使用しているdriver/UEFI/*.efiは
+- apfs.efi
+- ApfsDriverLoader.efi
+- FSInject.efi
+- HFSPlus.efi 
+- OpenRuntime.efi
+- OsxAptioFix3Drv.efi  
+です。
 
 手を加えた内容は以下の通りです。
 
