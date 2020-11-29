@@ -50,12 +50,12 @@ macOS Catalina 10.15.7
 
 手を加えた内容は以下の通りです。
 
-- WhatEverGreen.kext
+- WhatEverGreen.kext  
   	起動時に画面が乱れることがあったので追加しました。
-- USBPorts.kext
+- USBPorts.kext  
   	Hackintoolsで作成し直しました。
-- SSDT.aml
+- SSDT.aml  
   	CPUのパワーマネジメント用にssdtPRGen.shを使って作成しました。
-- config.plist
+- config.plist  
   	最初のUSBから起動する際に使用したconfig.plistを、Sarkさんのconfig.plistに近づけるように編集して行っています。
 
