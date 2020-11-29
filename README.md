@@ -77,7 +77,6 @@ macOS Catalina 10.15.7
 ### EFIについて
 
 導入はSarkさんが[提供していくれているもの](https://github.com/sarkrui/Z390M-Pro4-i7-9700K-Hackintosh)を参考にして行いました。ESPの中身はEFI/Clover/以下のファイルを上のリンクからコピーして、基本的にそのまま使っています。  
-Githubに上げてあるので見ていただけたら嬉しいです。[（Github）]()
 
 使用しているdriver/UEFI/*.efiは
 - apfs.efi
