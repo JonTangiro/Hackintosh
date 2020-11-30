@@ -72,7 +72,7 @@ BIOS設定
 - XHCI Hand-off --> Enabled
 - CSM(Compatibility Support Module) --> Disabled  
 
-
+MacのバージョンとCloverのバージョン
 - macOS Catalina 10.15.7  
 - Clover r5127  
 
