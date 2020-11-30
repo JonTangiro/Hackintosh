@@ -70,9 +70,12 @@ BIOS設定
 - Onboard WAN Device --> Disabled
 - Serial Port --> Disabled
 - XHCI Hand-off --> Enabled
-- CSM(Compatibility Support Module) --> Disabled
+- CSM(Compatibility Support Module) --> Disabled  
 
-macOS Catalina 10.15.7
+
+- macOS Catalina 10.15.7  
+- Clover r5127  
+
 
 ### EFIについて
 
