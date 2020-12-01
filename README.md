@@ -1,5 +1,6 @@
 # Hackintosh
-[HELP] ASRock Z390M-PRO4, i5-9400F, MSI RX570
+[FIXED] ASRock Z390M-PRO4, i5-9400F, MSI RX570
+Shutdown sleep Issue
 
 こんにちは、初心者です。シャットダウン とスリープ復帰の問題で困っています。 ASRock Z390M-PRO4とi5-9400FでCatalina 10.15.7を入れています。
 
