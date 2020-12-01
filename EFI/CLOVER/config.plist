@@ -171,7 +171,7 @@
 		<key>Debug</key>
 		<false/>
 		<key>Arguments</key>
-		<string>npci=0x2000 dart=0 -v darkwake=1</string>
+		<string>npci=0x2000 dart=0 darkwake=1</string>
 		<key>CustomLogo</key>
 		<false/>
 		<key>Secure</key>
